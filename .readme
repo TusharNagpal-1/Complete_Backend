@@ -1,0 +1,18 @@
+///
+this is the first project i am building and learning about backend.
+folder structure 
+->first i create public folder and in it temp folder but git only keep tracks of file , so i create .gitkeep file so to keep track of it.
+->then i create src folder then
+  ->controllers folder
+  ->db(database)
+  ->middlewares
+  ->models
+  ->utils
+  ->app.js file
+  ->constants,js file
+  ->inde.js file
+
+  ////////
+  -> .env file
+  -> .env.sample to keep track of it on git
+  
