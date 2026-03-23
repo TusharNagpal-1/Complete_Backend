@@ -48,6 +48,9 @@ web_modules/
 # TypeScript cache
 *.tsbuildinfo
 
+# Competitive Programming Helper
+.cph/
+
 # Optional npm cache directory
 .npm
 
